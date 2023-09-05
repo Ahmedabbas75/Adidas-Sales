@@ -40,4 +40,7 @@ ________________________________________________________________________________
   - wrong datatypes for columns?
   - complete duplicates in the data?
   - outliers in numerical columns?
+ 
+- Business Questions
+  1. What is the breakdown of sales by retailers, and how does it vary across different retailers?
 
