@@ -35,7 +35,7 @@ ____________________________________________________________________________
 _________________________________________________________________________________
 ## 3- In Mind Questions
 
-- General Questions related to the existence of
+1 - General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
   - complete duplicates in the data?
