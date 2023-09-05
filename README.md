@@ -35,12 +35,12 @@ ____________________________________________________________________________
 _________________________________________________________________________________
 ## 3- In Mind Questions
 
-- ### General Questions related to the existence of
+- #### General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
   - complete duplicates in the data?
   - outliers in numerical columns?
  
-- ### Business Questions
+- #### Business Questions
   -  What is the breakdown of sales by retailers, and how does it vary across different retailers?
 
