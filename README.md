@@ -8,9 +8,9 @@ There are a variety of sources that could potentially provide an Adidas sales da
 ____________________________________________________________________________
 ## 2- Data Description :
 
-. `Retailer` : Represents the business or individual that sells Adidas products directly to consumers.
+- `Retailer` : Represents the business or individual that sells Adidas products directly to consumers.
 
-• `Retailer ID` : A unique identifier assigned to each retailer in the dataset.
+- `Retailer ID` : A unique identifier assigned to each retailer in the dataset.
 
 • `Invoice Date` : The date when a particular invoice or sales transaction took place.
 
