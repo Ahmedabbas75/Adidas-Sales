@@ -1,6 +1,8 @@
 ## 1- Dashboard :
   <p float="left">
   <img src='DashBoard\screen one.png'/>
+____________________________________________________________________________
+  <img src='DashBoard\screen two.png'/>
 </p>
 
 ## 2- About the Dataset :
