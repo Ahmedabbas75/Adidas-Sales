@@ -54,3 +54,12 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________
 ## 4- Conclusion :
+  - `West Gear` and `Foot locker` emerge as the top retailers, capturing 27% and 24% of sales, respectively.
+  - `West` and `Northeast` emerge as the top Region, capture 30% and 21% of sales respectively.
+  - Top product categories such as `Men’s Street Footwear`, `Women’s Apparel`, and `Men’s Athletic Footwear`, which for 60% of total sales.
+  - Sales increase in the `summer` and `winter` seasons, which represent 29 % and 24% of sales respectively.It may be due to school season or recreational breaks on the beach.
+  - In `2021`, sales were much higher than in `2020`, and the main reason for this was Covid-19.
+  - The `online` sales method ranked first with a percentage 37%, followed by `Outlet` Sales method with a percentage 33%.
+  - The sale of products `decreases` significantly in `Autumn` and `Spring`.
+  - `New York` and `California` It has the highest sales.
+  - `Women's Apparel` and `Men's Apparel` it is the most expensive product.
