@@ -65,15 +65,15 @@ ________________________________________________________________________________
   - `Women's Apparel` and `Men's Apparel` it is the most expensive product.
 ______________________________________________________________________________________
 ## 5- 💡Summary :
-  - ### Drop rows have missing value in `Price per units` columns, Because This values are somewhat very small.
-  - ### In `Invoice Date column` i extract some values such as `year`, `month`,`day` and create `season` column based on month column and i drop it.
-  - ### In `Product`, There were duplicate values due to a spelling error and fixed this.
-  - ### In `Price per Unit`, i remove Dollar Sign and convert data type to numeric.
-  - ### In ` Units Sold`, replace comma with empty string and  convert data type to integer.
+  - #### Drop rows have missing value in `Price per units` columns, Because This values are somewhat very small.
+  - #### In `Invoice Date column` i extract some values such as `year`, `month`,`day` and create `season` column based on month column and i drop it.
+  - #### In `Product`, There were duplicate values due to a spelling error and fixed this.
+  - #### In `Price per Unit`, i remove Dollar Sign and convert data type to numeric.
+  - #### In ` Units Sold`, replace comma with empty string and  convert data type to integer.
       - ⚠️ During discover this column I found zero values `Sales may have been returned by customer and money was refunded to him `
       - 💡 `I decided to drop them`
       
-  - ### In `Total Sales` replace comma with empty string and convert data type to numeric.
+  - #### In `Total Sales` replace comma with empty string and convert data type to numeric.
       - ⚠️ During discover this column some values in "Total Sales" is incorrect  And so it some value in "Operating Profit" column in same row is incorrect
       - 💡 I fixed this by using some `calculations and adding some columns to help me fix this`.
-  - ### In `Total Sales` i remove Dollar Sign,replace comma with empty string and convert data type to numeric.
+  - #### In `Total Sales` i remove Dollar Sign,replace comma with empty string and convert data type to numeric.
