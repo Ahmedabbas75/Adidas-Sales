@@ -33,7 +33,7 @@ ____________________________________________________________________________
 - `Sales Method` : The approach or channel used by the retailer to sell its products or services.
 
 _________________________________________________________________________________
-## 3- In Mind Questions
+## 3- In Mind Questions :
 
 - ### General Questions related to the existence of
   - missing values?
@@ -52,3 +52,5 @@ ________________________________________________________________________________
   -  What is the distribution of sales by top 20 `state` ?
   -  What is the average price of `products per unit` ?
 
+______________________________________________________________________________________
+## 4- Conclusion :
