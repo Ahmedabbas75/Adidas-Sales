@@ -1,4 +1,8 @@
-## 1- About the Dataset :
+## 1- Dashboard :
+  src="DashBoard\Adidas DashBoard.mp4"></video>
+
+
+## 2- About the Dataset :
 An Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This type of dataset may include details such as the number of units sold, the total sales revenue, the location of the sales, the type of product sold, and any other relevant information.
 
 Adidas sales data can be useful for a variety of purposes, such as analyzing sales trends, identifying successful products or marketing campaigns, and developing strategies for future sales. It can also be used to compare Adidas sales to those of competitors, or to analyze the effectiveness of different marketing or sales channels.
@@ -6,7 +10,7 @@ Adidas sales data can be useful for a variety of purposes, such as analyzing sal
 There are a variety of sources that could potentially provide an Adidas sales dataset, including Adidas itself, market research firms, government agencies, or other organizations that track sales data. The specific data points included in an Adidas sales dataset may vary depending on the source and the purpose for which it is being used.
 
 ____________________________________________________________________________
-## 2- Data Description :
+## 3- Data Description :
 
 - `Retailer` : Represents the business or individual that sells Adidas products directly to consumers.
 
@@ -33,7 +37,7 @@ ____________________________________________________________________________
 - `Sales Method` : The approach or channel used by the retailer to sell its products or services.
 
 _________________________________________________________________________________
-## 3- In Mind Questions :
+## 4- In Mind Questions :
 
 - ### General Questions related to the existence of
   - missing values?
@@ -53,7 +57,7 @@ ________________________________________________________________________________
   -  What is the average price of `products per unit` ?
 
 ______________________________________________________________________________________
-## 4- Conclusion :
+## 5- Conclusion :
   - `West Gear` and `Foot locker` emerge as the top retailers, capturing 27% and 24% of sales, respectively.
   - `West` and `Northeast` emerge as the top Region, capture 30% and 21% of sales respectively.
   - Top product categories such as `Men’s Street Footwear`, `Women’s Apparel`, and `Men’s Athletic Footwear`, which for 60% of total sales.
@@ -64,7 +68,7 @@ ________________________________________________________________________________
   - `New York` and `California` It has the highest sales.
   - `Women's Apparel` and `Men's Apparel` it is the most expensive product.
 ______________________________________________________________________________________
-## 5- 💡Summary :
+## 6- 💡Summary :
   - #### Drop rows have missing value in `Price per units` columns, Because This values are somewhat very small.
   - #### In `Invoice Date column` i extract some values such as `year`, `month`,`day` and create `season` column based on month column and i drop it.
   - #### In `Product`, There were duplicate values due to a spelling error and fixed this.
