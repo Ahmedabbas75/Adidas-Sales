@@ -43,12 +43,12 @@ ________________________________________________________________________________
  
 - ### Business Questions
   -  What is the breakdown of sales by retailers, and how does it vary across different retailers ?
-  -  What is total sales, Operating Profit in each Region ?
-  -  What is total sales, Operating Profit in each Product ?
-  -  What is total sales, Operating Profit in each Season ?
-  -  What is total sales of each year ?
-  -  What is total sales, Operating Profit in each Sales Method ?
-  -  Does the Sales Method increase or decrease during seasons ?
-  -  What is the distribution of sales by top 20 state and city ?
-  -  What is the average price of products per unit ?
+  -  What is total sales, Operating Profit in each `Region` ?
+  -  What is total sales, Operating Profit in each `Product` ?
+  -  What is total sales, Operating Profit in each `Season` ?
+  -  What is total sales of each `year` ?
+  -  What is total sales, Operating Profit in each `Sales Method` ?
+  -  Does the Sales Method increase or decrease `during seasons` ?
+  -  What is the distribution of sales by top 20 `state` ?
+  -  What is the average price of `products per unit` ?
 
