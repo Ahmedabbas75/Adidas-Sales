@@ -63,3 +63,6 @@ ________________________________________________________________________________
   - The sale of products `decreases` significantly in `Autumn` and `Spring`.
   - `New York` and `California` It has the highest sales.
   - `Women's Apparel` and `Men's Apparel` it is the most expensive product.
+______________________________________________________________________________________
+5- 💡Summary:
+  - 
