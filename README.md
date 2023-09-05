@@ -42,7 +42,7 @@ ________________________________________________________________________________
   - outliers in numerical columns?
  
 - ### Business Questions
-  -  What is the breakdown of sales by retailers, and how does it vary across different retailers ?
+  -  What is the breakdown of sales by retailers, and how does it vary across different `retailers` ?
   -  What is total sales, Operating Profit in each `Region` ?
   -  What is total sales, Operating Profit in each `Product` ?
   -  What is total sales, Operating Profit in each `Season` ?
